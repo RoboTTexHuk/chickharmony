@@ -1092,7 +1092,7 @@ class _ChickHarmonyLoaderState extends State<ChickHarmonyLoader> with SingleTick
             ),
             SizedBox(width: widget.wordSpacing),
             buildBubbleWord(
-              "Harmony",
+              "Line Collection",
               harmonyScale,
               const [Color(0xFF9ADCFF), Color(0xFFA9F1DF), Color(0xFFF2C6DE)],
               harmonyShadow,
